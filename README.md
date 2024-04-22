@@ -1,6 +1,6 @@
 # Trabajo Flex-Box | AluraPlay
 [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
-[![Pagina-Alura-Play.png](https://i.postimg.cc/jjBcgjRr/Pagina-Alura-Play.png)](https://postimg.cc/v1L5Db1P)
+[![Pagina-Alura-Play2.png](https://i.postimg.cc/0jMyFPky/Pagina-Alura-Play2.png)](https://postimg.cc/gLpp69LC)
 
 <div>
     <img src="https://img.shields.io/badge/HTML-EC6231?logo=html5&logoColor=FFFFFF&style=for-the-badge" />
